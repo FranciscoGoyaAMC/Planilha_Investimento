@@ -11,7 +11,6 @@ Ela foi projetada para demonstrar:
 * Cálculo de rendimentos ao longo do tempo
 * Simulação de aporte mensal e taxa de juros
 * Projeções futuras com base em parâmetros ajustáveis
-* Uso de gráficos para visualização de crescimento patrimonial
 * Interação com recursos inteligentes de análise
 
 ## 📅 Curso
